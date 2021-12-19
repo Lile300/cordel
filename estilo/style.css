@@ -50,7 +50,6 @@ section{
     padding-left: 30px;
     font-family: var(--fonte3);
     font-size: 3.5vw;
-
 }
 .normal{
     background-color: white;
@@ -61,7 +60,6 @@ section{
     color: white;
     box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.13);
     background-attachment: fixed;
-
 }
 .imagem > p {
     padding: 5px;
@@ -73,7 +71,6 @@ section{
     background-image: url("../imagens/background001.jpg");
     background-position: right center;
     background-size: cover;
-
 }
 #img02{
     background-image: url(../imagens/background002.jpg);
@@ -85,6 +82,5 @@ footer{
     color: white;
     text-align: center;
     padding: 10px;
-
 }
 
